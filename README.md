@@ -1,6 +1,6 @@
 # Assignment1
-Assignment-1 Navigus
-this is the assignment given by Navigus. In this the logged in users can see the status of other people who are logged in or previously logged in with the timestamp and status of the users.
+Assignment-1
+this is the assignment given by Navigus In this the logged in users can see the status of other people who are logged in or previously logged in with the timestamp and status of the users.
 install requirements:
 Python, Django, Pillow, requests
 
