@@ -24,9 +24,9 @@ this app is not working properly on heroku.
 
 # Screenshots
 # Dashboard
-![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/dashboard.png"dashboard")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/dashboard.png "dashboard")
 # Register
-![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/login.png"register")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/login.png "register")
 # Login
-![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/register.png"login")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/register.png "login")
 
