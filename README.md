@@ -5,10 +5,10 @@ install requirements:
 Python, Django, Pillow, requests
 
 Download the file and come in the directory and run
->>pip install -r requirements.txt
+>pip install -r requirements.txt 
 this command will execute all the requirement that are needed to run the application.
 run command
->>python manage.py runserver
+>python manage.py runserver
 the output of the following command will be:
 Django version 3.0.7 using setting 'assign1.setting' starting development server at http://127.0.0.1:8000/
 quit the server with CTRL+BREAK
@@ -24,9 +24,9 @@ this app is not working properly on heroku.
 
 # Screenshots
 # Dashboard
-![Alt text](https://github.com/Aditya8586/Assignment1/tree/master/screenshots/dashboard.png"dashboard")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/dashboard.png"dashboard")
 # Register
-![Alt text](https://github.com/Aditya8586/Assignment1/tree/master/screenshots/register.png"dashboard")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/login.png"register")
 # Login
-![Alt text](https://github.com/Aditya8586/Assignment1/tree/master/screenshots/login.png"dashboard")
+![Alt text](https://github.com/Aditya8586/Assignment1/blob/master/screenshots/register.png"login")
 
